@@ -1,0 +1,2 @@
+Unity Standard Assets (Terrain textures and trees): https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
+Dieselpunk Hovercraft: https://assetstore.unity.com/packages/3d/vehicles/dieselpunk-hovercraft-01-pbr-65872
